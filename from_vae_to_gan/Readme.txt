@@ -1,3 +1,5 @@
+Actaully, it's a homework of the course I attended
+
 Open in From_VAE_To_GAN.ipynb in jupyter environment
 
 Since the article is writen in markdown, not LATEX, I will try to match the code to print it in pdf if I can (Too many papers to finish this two weeks)
